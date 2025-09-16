@@ -9,8 +9,8 @@
 "date": "1951-05-01",
 "summary_en": "Liang Sicheng's seminal study on ancient Chinese architecture through Dunhuang murals, 揭示中国建筑 “台基 - 屋身 - 屋顶” 三段式结构、庭院布局的防御性演变，及敦煌壁画对唐代木构建筑研究的填补作用，以佛光寺发现印证壁画的真实性，系统梳理宗教建筑与世俗建筑的同源性。",
 "summary_zh": "梁思成通过敦煌壁画系统考证中国古建筑史，揭示中国建筑 “台基 - 屋身 - 屋顶” 三段式基因，论证庭院布局从防御性向空间美学的演变（如紫禁城溯源）。首次提出敦煌壁画填补了唐以前木构建筑图像空白，以佛光寺唐代大殿（1937 年发现）与壁画互证，证实中唐净土变建筑的写实性。梳理出殿堂、层楼、阙、廊等 11 类建筑形制，发现佛寺与官署 / 住宅的同源性（如白马寺沿革），为中国建筑史研究奠定图像学基础。",
-"best_quote_en": ""Thousands of years of Chinese architecture, with few exceptions, are composed of timber-framed buildings forming courtyards—a fundamental feature shared by both religious and secular structures."",
-"best_quote_zh": "“数千年来，中国建筑的平面部署莫不如此 —— 以木构骨架的建筑物联系成庭院。宗教与非宗教建筑自始便无根本区别，敦煌壁画为这一演变提供了活化石。”（原文核心论断，概括中国建筑基因与敦煌的实证价值）"
+"best_quote_en": "Thousands of years of Chinese architecture, with few exceptions, are composed of timber-framed buildings forming courtyards—a fundamental feature shared by both religious and secular structures.",
+"best_quote_zh": "数千年来，中国建筑的平面部署莫不如此 —— 以木构骨架的建筑物联系成庭院。宗教与非宗教建筑自始便无根本区别，敦煌壁画为这一演变提供了活化石。（原文核心论断，概括中国建筑基因与敦煌的实证价值）"
 },
 {
 "id": 2,
@@ -37,8 +37,8 @@
 "date": "2025-09-10",
 "summary_en": "China's first AI-powered precise bridge replacement on an operational railway: At Shaoxing's Keqiao Station, a 4,389.6-ton steel box girder achieved millimeter-level positioning (height deviation ≤2mm, lateral deviation ≤3mm) using an AI system with 40 sensors and digital twin technology. The project innovatively integrated 36 synchronous hydraulic jacks and 10 horizontal push devices, completing the replacement of 4 old beams (4,086 tons) and 5 new beams within a 6-hour railway shutdown window, reducing downtime by 80% compared to traditional methods. The AI system's perception-simulation-control triad set a new benchmark for railway infrastructure renovation.",
 "summary_zh": " 国内首次在运营铁路桥梁应用 AI 换梁：9 月 10 日，绍兴城际铁路柯桥站通过 AI 系统 + 数字孪生技术，实现 4389.6 吨钢箱梁毫米级落位（高差≤2mm、横纵偏差≤3mm）。项目突破三大技术壁垒：①智能感知：40 个高精度传感器（集成光栅 / 北斗定位）实时采集梁体姿态，构建毫米级数字孪生模型；②动态控制：AI 算法同步操控 36 台顶升千斤顶 + 10 台水平顶推设备，顶推速度达 1 米 / 分钟，2.5 小时完成 8000 吨梁体 “移旧换新”；③精准仿真：建立道岔区桥梁有限元模型，预演应力变化，填补国内多跨连续梁同步更换技术空白。该工程在 6 小时铁路封锁期内完成传统需 7 天的作业，创造 “运营线改造零延误” 纪录，为全国 12 万公里普速铁路升级提供 “AI 换心” 范式。",
-"best_quote_en": ""The AI system acts as both the 'eye' and 'brain' of the bridge replacement, achieving real-time error correction that human operators cannot match." — Project Manager Qian Yingfei",
-"best_quote_zh": "“AI 系统既是换梁的‘眼睛’，也是‘大脑’，实现人工无法完成的毫米级动态纠偏。”—— 中铁二十四局项目经理潜英飞（点明 AI 不可替代性）"
+"best_quote_en": "The AI system acts as both the 'eye' and 'brain' of the bridge replacement, achieving real-time error correction that human operators cannot match. — Project Manager Qian Yingfei",
+"best_quote_zh": "AI 系统既是换梁的‘眼睛’，也是‘大脑’，实现人工无法完成的毫米级动态纠偏。—— 中铁二十四局项目经理潜英飞（点明 AI 不可替代性）"
 },
 {
     "id": 4,
@@ -51,8 +51,8 @@
     "date": "2025-09-09",
     "summary_en": "Introduces 5 underrated affordable Chinese herbal medicines (Chicken Gizzard Lining, Gallnut, Tuber Fleeceflower Stem, Wax Gourd Peel, Radish Seed) with proven efficacy in digestion, hemostasis, sleep, diuresis, and phlegm reduction, emphasizing their low cost and practical value in TCM.",
     "summary_zh": "文章盘点了中药房中5种被低估的平价好药：鸡内金（消食化积）、五倍子（止血消炎）、夜交藤（安神助眠）、冬瓜皮（利尿降压）、莱菔子（化痰平喘）。这些药材价格低廉却疗效显著，历经千年验证，强调辨证使用与配伍原则，展现中医药的实用价值。",
-    "best_quote_en": "\"Chicken Gizzard Lining is the 'intestinal scavenger' for digestion and stones, costing almost nothing but rich in digestive enzymes.\"",
-    "best_quote_zh": "\"鸡内金是消食化积的'肠胃清道夫'，价格低廉却富含胃蛋白酶，对儿童积食和结石有奇效——菜市场就能找到的'平民圣药'。\""
+    "best_quote_en": "Chicken Gizzard Lining is the 'intestinal scavenger' for digestion and stones, costing almost nothing but rich in digestive enzymes.",
+    "best_quote_zh": "鸡内金是消食化积的'肠胃清道夫'，价格低廉却富含胃蛋白酶，对儿童积食和结石有奇效——菜市场就能找到的'平民圣药'。"
   },
 {
     "id": 5,
