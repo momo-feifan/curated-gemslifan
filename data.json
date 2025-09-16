@@ -1,572 +1,141 @@
-[{
-    "id": 1,
-    "title": "‘You are worthy and deserving of help’: six practical ways to navigate medical misogyny",
-    "title_zh": "“你值得也应该得到帮助”：应对医疗性别歧视的六种实用方法",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/16/you-are-worthy-and-deserving-of-help-six-practical-ways-to-navigate-medical-misogyny",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the pervasive issue of medical misogyny, highlighting how a healthcare system often designed for men frequently dismisses women's health concerns. It presents six actionable strategies for women to advocate for themselves, drawing on personal anecdotes and expert advice. From seeking second opinions and understanding patient rights to researching conditions and clear communication, the piece empowers individuals to navigate a system that often invalidates their experiences. Crucially, it also addresses the significant mental health toll of medical gaslighting and the importance of seeking support. This content resonated deeply with me, emphasizing the systemic challenges women face and offering practical, tangible steps towards reclaiming agency in their healthcare journey. It's a powerful call to self-advocacy and a stark reminder of the ongoing fight for equitable medical treatment.",
-    "summary_zh": "这篇文章深刻剖析了医疗体系中普遍存在的性别歧视现象，揭示了女性在寻求医疗帮助时常被忽视的困境。它提供了六种实用的自我倡导策略，从寻求第二意见到清晰沟通，旨在赋能女性患者。我个人认为，它不仅揭示了系统性问题，更提供了具体可行的解决方案，尤其是对医疗煤气灯效应（medical gaslighting）对心理健康影响的探讨，极具启发性。它提醒我们，在不完善的体系中，自我赋权至关重要，女性值得被倾听和认真对待。",
-    "best_quote_en": "‘When enough people tell you maybe what you’re experiencing is not real, it has a profound effect on your own sense of self, your own confidence.’",
-    "best_quote_zh": "“当足够多的人告诉你，你所经历的可能不是真实的，这对你的自我认知和自信心会产生深远的影响。”"
-  },
-  {
-    "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay critically examines the concept of \"superlinear returns,\" arguing that performance rewards in many domains are not linear but exponential or threshold-based. The author posits that this phenomenon, often misunderstood, is a fundamental feature of the world, not merely a flaw of capitalism. Key drivers identified are exponential growth (e.g., startups, learning) and thresholds (winner-take-all scenarios). The piece provocatively suggests that understanding superlinear returns is crucial for ambitious individuals, especially in a world where organizational damping effects are diminishing due to technological progress. It offers heuristics for navigating this landscape, emphasizing continuous learning, curiosity over careerism, and pursuing work that compounds. The article also links superlinear returns to increased inequality, challenging conventional notions of fairness and highlighting the growing importance of independent thought and novel ideas in achieving exceptional success.",
-    "summary_zh": "这篇文章对“超线性回报”这一概念进行了深刻剖析，指出许多领域的绩效回报并非线性，而是指数级或门槛式的。作者认为，这是世界的本质特征，而非资本主义的缺陷。它提醒我们，在组织影响力减弱、技术进步加速的时代，理解并驾驭超线性回报对于有抱负的个体至关重要。我特别欣赏作者对持续学习、好奇心驱动以及独立思考的强调，这不仅是获取超额回报的策略，更是应对复杂世界的核心竞争力。文章也坦率地指出了这种模式必然带来的不平等，促使我们反思个人选择与社会结构之间的张力。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报的概念，你就无法理解这个世界。如果你有抱负，你绝对应该理解它，因为这将是你乘风破浪的浪潮。"
-  },
-  {
-    "id": 3,
-    "title": "Master your sleep cycles",
-    "title_zh": "掌握你的睡眠周期",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8cwpDJYaPtwEyfbCE/master-your-sleep-cycles",
-    "tags": [
-      "learn",
-      "lifestyle",
-      "science",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "学习",
-      "生活方式",
-      "科学研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a compelling, data-driven approach to optimizing sleep by understanding personal sleep cycles, moving beyond generic advice. It challenges the efficacy of 'smart alarms' and provides a practical, self-experimentation methodology to determine individual sleep cycle lengths. The author's personal anecdote of reducing sleep time while improving wakefulness is particularly insightful, highlighting the often counter-intuitive nature of biological optimization. The concept of an 'n-1 cycle night' for strategic short-term sleep reduction is a valuable, actionable takeaway for those needing flexibility without severe grogginess. While emphasizing that this is not a substitute for basic sleep hygiene, it empowers individuals to fine-tune their sleep schedule for enhanced alertness and productivity, demonstrating a thoughtful blend of scientific principles and personal discovery.",
-    "summary_zh": "这篇文章深入探讨了通过了解个人睡眠周期来优化睡眠的实用方法，远超泛泛之谈。作者通过自身经历，巧妙地揭示了“智能闹钟”的局限性，并提供了一套严谨的自我实验方法来精确测量睡眠周期。最引人深思的是，减少睡眠时间反而能提高清醒度的发现，这深刻体现了生物节律优化的反直觉魅力。文章还提出了“n-1周期之夜”的策略，为需要在不牺牲清醒度的情况下短期缩短睡眠的用户提供了极具价值的解决方案，展现了科学洞察与个人实践的完美结合。",
-    "best_quote_en": "When you wake up near the end of a sleep cycle, you feel alert, and when you wake up in the middle of a cycle, you feel groggy and disoriented. Researchers have called this variable grogginess “sleep inertia.”",
-    "best_quote_zh": "当你在睡眠周期结束时醒来，你会感到清醒；而当你在周期中间醒来时，你会感到昏沉和迷失方向。研究人员将这种变化的昏沉感称为“睡眠惯性”。"
-  },
-  {
+【{
+"id": 1,
+"title": "梁思成：敦煌壁画中的中国古建筑",
+"title_zh": "梁思成：敦煌壁画中的中国古建筑",
+"source": "学习强国・网页",
+"link": "https://www.xuexi.cn/lgpage/detail/index.html?id=7592536064344320563&item_id=7592536064344320563",
+"tags": ["敦煌学", "古建筑", "梁思成", "建筑史"],
+"tags_zh": ["敦煌学", "古建筑", "梁思成", "建筑史"],
+"date": "1951-05-01",
+"summary_en": "Liang Sicheng's seminal study on ancient Chinese architecture through Dunhuang murals, 揭示中国建筑 “台基 - 屋身 - 屋顶” 三段式结构、庭院布局的防御性演变，及敦煌壁画对唐代木构建筑研究的填补作用，以佛光寺发现印证壁画的真实性，系统梳理宗教建筑与世俗建筑的同源性。",
+"summary_zh": "梁思成通过敦煌壁画系统考证中国古建筑史，揭示中国建筑 “台基 - 屋身 - 屋顶” 三段式基因，论证庭院布局从防御性向空间美学的演变（如紫禁城溯源）。首次提出敦煌壁画填补了唐以前木构建筑图像空白，以佛光寺唐代大殿（1937 年发现）与壁画互证，证实中唐净土变建筑的写实性。梳理出殿堂、层楼、阙、廊等 11 类建筑形制，发现佛寺与官署 / 住宅的同源性（如白马寺沿革），为中国建筑史研究奠定图像学基础。",
+"best_quote_en": ""Thousands of years of Chinese architecture, with few exceptions, are composed of timber-framed buildings forming courtyards—a fundamental feature shared by both religious and secular structures."",
+"best_quote_zh": "“数千年来，中国建筑的平面部署莫不如此 —— 以木构骨架的建筑物联系成庭院。宗教与非宗教建筑自始便无根本区别，敦煌壁画为这一演变提供了活化石。”（原文核心论断，概括中国建筑基因与敦煌的实证价值）"
+},
+{
+"id": 2,
+"title": "长安里的文物：银平脱双鹿纹方形漆盒",
+"title_zh": "长安里的文物：银平脱双鹿纹方形漆盒",
+"source": "学习强国・网页",
+"link": "https://www.xuexi.cn/lgpage/detail/index.html?id=4252973966287831585&item_id=4252973966287831585",
+"tags": ["唐代文物", "漆器", "银平脱工艺", "陕西历史博物馆"],
+"tags_zh": ["唐代文物", "漆器", "银平脱工艺", "陕西历史博物馆"],
+"date": "2025-06-23",
+"summary_en": "This article focuses on the Silver Pingtuo Square Lacquer Box with Double Deer Patterns, a Tang Dynasty lacquerware collected in Shaanxi History Museum. It first explains the definition of lacquerware (objects coated with natural raw lacquer from lacquer trees, initially for practical use and later developing artistic value) and the prosperity of Tang Dynasty lacquer craftsmanship due to strong national power and developed economy. It then details the box's features: mother-son mouth, black lacquer inside and out, slightly convex lid and base, with a pair of silver pingtuo running deer on the lid and sparse silver pingtuo flower and leaf patterns around the box (consistent with Tang Dynasty gold and silverware patterns). Finally, it introduces the complex silver pingtuo process (cutting thin silver sheets, pasting on lacquerware, applying black lacquer until flush with silver sheets, polishing to reveal patterns) and notes that Tang Dynasty lacquerware is rare today, making gold and silver pingtuo lacquerware even more precious.",
+"summary_zh": "本文聚焦陕西历史博物馆收藏的唐代漆器 —— 银平脱双鹿纹方形漆盒，系统介绍其背景、形制与工艺价值。首先阐释漆器定义：以漆树天然汁液（生漆，又称大漆、国漆）涂覆器物制成，最初为实用（耐腐蚀、防潮），后逐步发展出艺术属性；唐代因国势强盛、经济发达，漆器工艺大幅提升。接着详述文物特征：采用子母口设计，器身内外均髹黑漆，盖与底呈微鼓状，盖面饰银平脱工艺打造的奔鹿纹样，盒身四周则为疏朗的银平脱花叶纹，纹饰风格与唐代金银器纹样高度一致。最后解析核心工艺 “金银平脱”：作为工序繁杂的特种工艺，需将薄银片剪切为纹饰，贴于漆胎后反复涂黑漆至与银片平齐，干燥后打磨显纹，使银纹与黑漆地形成强烈对比，尽显富丽雅致；因漆器不易保存，现存唐代漆器稀少，金银平脱漆器更属珍贵文物。",
+"best_quote_en": "Gold and silver pingtuo is a decorative method with numerous processes in traditional decorative techniques; lacquerware adorned with gold and silver pingtuo is a high-end variety, combining lacquering and metal inlay.",
+"best_quote_zh": "金银平脱是传统装饰工艺中工序繁多的一种装饰手法。漆器上加饰金银平脱属高档品种，是把髹漆与金属镶嵌相结合的特种工艺"
+},
+{
+"id": 3,
+"title": "国内首次！AI 助力运营铁路桥毫米级精准换梁（绍兴柯桥站）",
+"title_zh": "国内首次！AI 助力运营铁路桥毫米级精准换梁（绍兴柯桥站）",
+"source": "学习强国・网页（原创）+ 多源媒体验证",
+"link": "https://www.xuexi.cn/lgpage/detail/index.html?id=17914151951388185819",
+"tags": ["AI 工程应用", "铁路改造", "桥梁顶升", "数字孪生", "毫米级精度"],
+"tags_zh": ["AI 工程应用", "铁路改造", "桥梁顶升", "数字孪生", "毫米级精度"],
+"date": "2025-09-10",
+"summary_en": "China's first AI-powered precise bridge replacement on an operational railway: At Shaoxing's Keqiao Station, a 4,389.6-ton steel box girder achieved millimeter-level positioning (height deviation ≤2mm, lateral deviation ≤3mm) using an AI system with 40 sensors and digital twin technology. The project innovatively integrated 36 synchronous hydraulic jacks and 10 horizontal push devices, completing the replacement of 4 old beams (4,086 tons) and 5 new beams within a 6-hour railway shutdown window, reducing downtime by 80% compared to traditional methods. The AI system's perception-simulation-control triad set a new benchmark for railway infrastructure renovation.",
+"summary_zh": " 国内首次在运营铁路桥梁应用 AI 换梁：9 月 10 日，绍兴城际铁路柯桥站通过 AI 系统 + 数字孪生技术，实现 4389.6 吨钢箱梁毫米级落位（高差≤2mm、横纵偏差≤3mm）。项目突破三大技术壁垒：①智能感知：40 个高精度传感器（集成光栅 / 北斗定位）实时采集梁体姿态，构建毫米级数字孪生模型；②动态控制：AI 算法同步操控 36 台顶升千斤顶 + 10 台水平顶推设备，顶推速度达 1 米 / 分钟，2.5 小时完成 8000 吨梁体 “移旧换新”；③精准仿真：建立道岔区桥梁有限元模型，预演应力变化，填补国内多跨连续梁同步更换技术空白。该工程在 6 小时铁路封锁期内完成传统需 7 天的作业，创造 “运营线改造零延误” 纪录，为全国 12 万公里普速铁路升级提供 “AI 换心” 范式。",
+"best_quote_en": ""The AI system acts as both the 'eye' and 'brain' of the bridge replacement, achieving real-time error correction that human operators cannot match." — Project Manager Qian Yingfei",
+"best_quote_zh": "“AI 系统既是换梁的‘眼睛’，也是‘大脑’，实现人工无法完成的毫米级动态纠偏。”—— 中铁二十四局项目经理潜英飞（点明 AI 不可替代性）"
+},
+{
     "id": 4,
-    "title": "How Jessica Reed Kraus Went from Mommy Blogger to MAHA Maven",
-    "title_zh": "杰西卡·里德·克劳斯如何从育儿博主蜕变为“MAHA”意见领袖",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/how-jessica-reed-kraus-went-from-mommy-blogger-to-maha-maven",
-    "tags": [
-      "analyze",
-      "medicine",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "分析",
-      "医学健康",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This profile offers a fascinating, almost anthropological study of Jessica Reed Kraus's evolution from a mommy blogger to a key influencer within the 'Make America Healthy Again' (MAHA) movement and the broader right-wing political sphere. The article intricately details her pivot from lifestyle content to political commentary, driven by personal disillusionment with liberal orthodoxy and a knack for identifying compelling, often controversial, narratives. It critically examines her unique approach to 'independent journalism'—a blend of gossip, 'quality conspiracy,' and behind-the-scenes access—which has garnered her a massive, engaged audience, particularly among women. The piece raises thought-provoking questions about the changing landscape of media, the monetization of controversy, and the blurring lines between personal branding, political activism, and genuine journalistic inquiry. Kraus's journey highlights the powerful role of personality-driven content in shaping public discourse and influencing political movements, even as it critiques the ethical implications of her methods and the often-unfiltered nature of her content.",
-    "summary_zh": "这篇深度剖析文章揭示了杰西卡·里德·克劳斯如何从育儿博主转变为右翼政治圈和“让美国恢复健康”（MAHA）运动的关键意见领袖。她从个人对自由主义正统的幻灭出发，凭借对争议性叙事的敏锐嗅觉，将内容重心转向政治评论。文章细致描绘了她独特的“独立新闻”模式——融合八卦、“优质阴谋论”和幕后视角——这为她赢得了庞大的女性受众。这不禁让我思考，在当下媒体格局中，个人品牌、政治行动与新闻求真之间的界限究竟何在？克劳斯的故事深刻反映了以个人影响力驱动的内容在塑造公共话语和政治运动中的巨大作用，同时也引发了对她内容伦理和真实性的深刻反思。",
-    "best_quote_en": "“I don’t think he gets what I’ve really done for him.”",
-    "best_quote_zh": "“我不认为他明白我到底为他做了什么。”"
+    "title": "中药房里的“扫地僧”:5种被低估的平价好药",
+    "title_zh": "中药房里的“扫地僧”:5种被低估的平价好药",
+    "source": "光明网",
+    "link": "https://www.xuexi.cn/lgpage/detail/index.html?id=969024919219859315&item_id=969024919219859315",
+    "tags": ["中药", "平价药", "传统医学"],
+    "tags_zh": ["中药", "平价药", "传统医学"],
+    "date": "2025-09-09",
+    "summary_en": "Introduces 5 underrated affordable Chinese herbal medicines (Chicken Gizzard Lining, Gallnut, Tuber Fleeceflower Stem, Wax Gourd Peel, Radish Seed) with proven efficacy in digestion, hemostasis, sleep, diuresis, and phlegm reduction, emphasizing their low cost and practical value in TCM.",
+    "summary_zh": "文章盘点了中药房中5种被低估的平价好药：鸡内金（消食化积）、五倍子（止血消炎）、夜交藤（安神助眠）、冬瓜皮（利尿降压）、莱菔子（化痰平喘）。这些药材价格低廉却疗效显著，历经千年验证，强调辨证使用与配伍原则，展现中医药的实用价值。",
+    "best_quote_en": "\"Chicken Gizzard Lining is the 'intestinal scavenger' for digestion and stones, costing almost nothing but rich in digestive enzymes.\"",
+    "best_quote_zh": "\"鸡内金是消食化积的'肠胃清道夫'，价格低廉却富含胃蛋白酶，对儿童积食和结石有奇效——菜市场就能找到的'平民圣药'。\""
   },
-  {
+{
     "id": 5,
-    "title": "The 2024 Trump-Biden Debate",
-    "title_zh": "2024年特朗普-拜登辩论",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/06/debate2024.html",
-    "tags": [
-      "solve",
-      "politics",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "争议观点"
-    ],
-    "date": "2024-06-28",
-    "summary_en": "This transcript, presented as a satirical take on the 2024 Trump-Biden debate, offers a stark and humorous commentary on the current state of political discourse. It highlights the pervasive use of ad hominem attacks, factual inaccuracies, and a general lack of substantive policy discussion that often characterizes modern political exchanges. The piece cleverly exaggerates common rhetorical patterns, from Trump's self-aggrandizement and vague promises to Biden's meandering statements and occasional gaffes, making it a critical reflection on how political figures communicate and how audiences consume such content. It's a thought-provoking, albeit darkly comedic, mirror held up to the political arena, prompting readers to consider the depth and value of information presented in high-stakes public forums.",
-    "summary_zh": "这篇2024年特朗普-拜登辩论的讽刺性文本，深刻揭示了当代政治话语的荒诞与空洞。它以夸张手法展现了人身攻击、事实扭曲和政策讨论的缺失，让人不禁反思政治辩论的真正价值。读完之后，我感到一种无奈又清醒的洞察：当严肃的政治议题被个人恩怨和修辞技巧所取代时，我们距离理性决策还有多远？这不仅仅是一场虚构的辩论，更是对现实政治生态的一次辛辣批判。",
-    "best_quote_en": "Trump: I just won two club championships. To do that you have to be smart and you have to be able to hit the ball a long way. He couldn’t hit a ball 50 yards. I have the body and mind of a 23-year-old.",
-    "best_quote_zh": "特朗普：我刚赢了两个俱乐部冠军。要做到这一点，你必须聪明，而且你必须能把球打得很远。他连50码都打不到。我有23岁的身体和头脑。"
-  },{
+    "title": "舆是乎|预制菜or现做菜，要让大家吃个明白",
+    "title_zh": "舆是乎|预制菜or现做菜，要让大家吃个明白",
+    "source": "学习强国学习平台",
+    "link": "https://www.xuexi.cn/lgpage/detail/index.html?id=6045107665007008420&item_id=6045107665007008420",
+    "tags": ["预制菜", "食品安全", "产业发展", "消费者权益"],
+    "tags_zh": ["预制菜", "食品安全", "产业发展", "消费者权益"],
+    "date": "2025-09-16",
+    "summary_en": "This article focuses on the discussion of pre-prepared dishes and the issue of their national standards. In 2024, the State Administration for Market Regulation and other departments clearly defined pre-prepared dishes at the national level: they are pre-packaged dishes made from edible agricultural products and their products, processed industrially, and edible only after heating or cooking, with requirements such as 'no preservatives added' and 'promoting clear indication of pre-prepared dishes in catering links'. As a product of food industrialization, pre-prepared dishes are popular for convenience; there are over 70,000 related enterprises in China, the market scale is expected to exceed 600 billion yuan in 2025, and Guangdong's export volume of pre-prepared dishes reached 31.7 billion yuan in 2024. However, the industry still needs improvement; the core of public discussion is not rejecting pre-prepared dishes but demanding 'clear information about what they eat'. The article suggests refining national standards, strengthening supervision, and urging catering enterprises to innovate, focus on consumer needs and operate with honesty. It also notes that both freshly cooked dishes (with 'wok aroma') and standardized pre-prepared dishes have their audiences, and consumers care about food safety, value equivalence and information transparency.",
+    "summary_zh": "文章围绕预制菜展开讨论，提及“预制菜国标”问题。2024年市场监管总局等部门从国家层面首次明确预制菜定义：以食用农产品及其制品为原料，经工业化预加工，加热或熟制后方可食用的预包装菜肴，并回应“不添加防腐剂”“推广餐饮环节使用预制菜明示”等公众关切。预制菜因便捷成为餐桌常客，目前我国相关企业超7万家，预计2025年市场规模突破6000亿元，广东2024年预制菜出口额达317亿元。但行业存在待完善之处，公众讨论核心并非抵制预制菜，而是要求“吃个明白”。文章建议国家细化预制菜定义与标注标准、加强监管，餐饮企业需创新、重视消费者需求、坦诚经营。同时指出，“锅气”十足的现做菜与标准化预制菜各受欢迎，消费者在意食品安全、价值对等与信息透明。",
+    "best_quote_en": "The core of the discussions around pre-prepared dishes over the years is not that consumers cannot accept them, but that they demand 'clear information about what they eat'.",
+    "best_quote_zh": "这几年围绕预制菜的讨论不断，其核心并非消费者不能接受预制菜，而是要求“吃个明白”。"
+  },
+{
     "id": 6,
-    "title": "Does my vagina really need a ‘facial’?",
-    "title_zh": "我的阴道真的需要“面部护理”吗？",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global/2025/sep/11/vagina-wellness-products-feminine-intimate-care",
-    "tags": [
-      "solve",
-      "politics",
-      "society",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "政治时事",
-      "社会议题",
-      "争议观点"
-    ],
-    "date": "2025-09-11",
-    "summary_en": "This article critically examines the booming 'feminine intimate care' market, exposing how it capitalizes on 'genital anxiety' to sell unnecessary and potentially harmful products and procedures. It brilliantly connects the rise of these products, from 'vagi facials' to labiaplasty, to broader societal and governmental control over women's bodies, citing historical parallels like the Comstock Law. The author argues that the industry creates demand by framing natural bodily functions as 'defects' needing cosmetic improvement, echoing past 'feminine hygiene' marketing. The piece advocates for a 'less is best' approach, emphasizing that the vagina is self-cleaning and most products are unnecessary for vulvar health, often causing irritation. It's a powerful call to resist commercial exploitation and reclaim bodily autonomy, reminding readers that diverse labial appearances are normal and beautiful.",
-    "summary_zh": "这篇文章深刻剖析了“女性私密护理”市场的虚假繁荣，揭示了其如何利用“生殖器焦虑”推销不必要甚至有害的产品和手术。作者巧妙地将这种现象与政府对女性身体的管控联系起来，令人警醒。它不仅是健康科普，更是一场对商业化身体羞辱的反击，提醒我们拥抱身体的自然多样性，抵制那些试图定义我们“正常”与否的外部声音。读后不禁反思，在消费主义的洪流中，我们如何才能真正实现身体自主与心灵自由。",
-    "best_quote_en": "The idea that your vagina should smell as fresh as a daisy or look like a doll’s is an attack on your autonomy, an insult to your humanity and a hazard to your health.",
-    "best_quote_zh": "你的阴道应该像雏菊一样清新，或者看起来像洋娃娃的这种想法，是对你自主权的攻击，对你人性的侮辱，也是对你健康的危害。"
+    "title": "I Vibecoded a Dispute Resolution App",
+    "title_zh": "我用“氛围编码”开发了一款争议解决应用",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6yqt7ywFKux9XbfaG/i-vibecoded-a-dispute-resolution-app",
+    "tags": ["Dispute Resolution App", "AI-Assisted Development", "LLM Application", "Web & Mobile Development"],
+    "tags_zh": ["争议解决应用", "AI辅助开发", "LLM应用", "网页与移动开发"],
+    "date": "2025-09-16",
+    "summary_en": "The author developed a dispute resolution app called FairEnough with extensive AI assistance (primarily using Claude Sonnet 4) during free time between consulting projects. The app is designed for scenarios ranging from interpersonal conflicts (like 'r/AmITheAsshole' style) to mild intellectual or professional disagreements. Users can create disputes, invite participants to state their sides, and an LLM generates a 'verdict' (analysis and resolution steps). Participants can accept the verdict or reject it with follow-up details, and rounds repeat until all accept, marking the dispute concluded. The author addresses criticisms: concerns about users abdicating judgment to AI (noting it’s a small hobby project with no commercial plans), AI being prompt-engineered to favor one side (hoping multiple rounds correct this), favoring verbally fluent users (stating this is true in real life too), and data security (storing encrypted data but acknowledging developer access). Additionally, the author shares experiences of learning web/mobile development via LLMs—copying, testing, and understanding AI-generated code (for JavaScript, React, etc.), noting LLMs helped with code structure (substituting 'social onboarding' for coding norms) but had flaws in basic logic. The app has bugs, with a trial link (https://fairenough.netlify.app/) and GitHub repo; beta tester feedback is welcomed.",
+    "summary_zh": "作者在咨询项目间隙的空闲时间里，借助大量AI辅助（主要使用Claude Sonnet 4），开发了一款名为FairEnough的争议解决应用。该应用适用于从“Reddit上‘我是不是混蛋’类人际冲突”到较为温和的学术或专业分歧等场景。用户可创建争议、邀请参与者陈述各自立场，LLM会生成“裁决”（包含事件分析及解决步骤）。参与者可接受裁决，或拒绝并补充后续细节，多轮循环直至所有人接受裁决，争议即标记为结束。作者还回应了各类批评：如“让用户放弃自主判断”（强调这是小型爱好项目，无商业化计划）、“AI易被诱导偏袒某一方”（希望多轮机制能修正此问题）、“偏袒语言流利者”（指出现实中亦是如此）、“数据安全”（说明数据加密存储但开发者可访问）。此外，作者分享了通过LLM学习网页/移动开发的经历——复制、测试并理解AI生成的代码（涉及JavaScript、React等），认为LLM在代码结构方面提供了帮助（替代了编程规范的“社交入门”过程），但在基础逻辑上存在缺陷。目前应用仍有部分漏洞，提供试用链接（https://fairenough.netlify.app/）及GitHub仓库，欢迎测试者反馈。",
+    "best_quote_en": "FairEnough is a dispute resolution app. It’s intended for anything from ‘r/AmITheAsshole’ types of interpersonal conflicts, to less-heated intellectual or professional disagreements.",
+    "best_quote_zh": "FairEnough是一款争议解决应用，适用于从“Reddit上‘我是不是混蛋’这类人际冲突”，到较为温和的学术或专业分歧等各类场景。"
   },
-  {
+{
     "id": 7,
-    "title": "How to Do Great Work",
-    "title_zh": "如何做出伟大的工作",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/greatwork.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "争议观点"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay by Paul Graham offers a profound and highly actionable guide for individuals aspiring to achieve 'great work' in any field. It challenges conventional notions of career planning, advocating instead for a curiosity-driven, iterative, and deeply personal approach. Graham emphasizes the critical importance of selecting work aligned with one's natural aptitude and intense interest, encouraging bold exploration of 'unfashionable' problems and a relentless pursuit of truth. The piece masterfully weaves together psychological insights, practical strategies for maintaining morale, and philosophical reflections on originality and the nature of discovery. It's a compelling argument for embracing intellectual honesty, questioning established models, and continuously evolving through focused effort and a willingness to 'start small' and iterate. The core message resonates deeply: true innovation stems from an insatiable curiosity and the courage to break rules, not just hard work alone.",
-    "summary_zh": "保罗·格雷厄姆这篇关于“如何做出伟大的工作”的文章，简直是心怀抱负者的行动指南。它颠覆了传统职业规划，倡导以好奇心为驱动、迭代前行、并与个人深度契合的工作方式。文章深刻指出，选择与天赋和兴趣高度匹配的工作至关重要，鼓励大胆探索“非主流”问题，并持续追寻真理。读完我深感，真正的伟大并非一蹴而就，而是源于持续的好奇心、打破常规的勇气以及对知识前沿的敏锐洞察。这不仅仅是工作方法论，更是关于如何活出有意义、有创造力人生的深刻思考。",
-    "best_quote_en": "Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.",
-    "best_quote_zh": "好奇心是最好的向导。你的好奇心从不说谎，它比你更清楚什么值得关注。"
+    "title": "High-level actions don’t screen off intent",
+    "title_zh": "高层级行为无法屏蔽意图",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/nAMwqFGHCQMhkqD6b/high-level-actions-don-t-screen-off-intent",
+    "tags": ["Action and Intent", "Human Behavior", "Moral Psychology"],
+    "tags_zh": ["行为与意图", "人类行为", "道德心理学"],
+    "date": "2025-09-12",
+    "summary_en": "The article challenges the view that 'actions screen off intent'—the idea that the intent behind an action doesn’t matter as long as the action itself is the same (e.g., Alice donating $1k to bed nets is thought to have the same effect regardless of whether she acts out of care or a desire to show off). The author argues this is mostly untrue: human actions contain micro-details (e.g., wording, facial expressions during an apology) filled in by low-level processes, which are shaped by intent and lead to predictable differences in impact, even if the action is perceived as the same (e.g., 'apologizing politely'). Even in distant donations, the recipient organization may discern the donor’s motives and adjust future actions to appeal to similar donors, resulting in different effects based on intent. The author notes the original view can encourage focus on the external world but emphasizes intent’s role in shaping action impact.",
+    "summary_zh": "本文反驳了“行为屏蔽意图”的观点——该观点认为只要行为本身相同，背后的意图便无关紧要（例如，爱丽丝捐赠1000美元用于购买蚊帐，无论她是出于对他人的关心还是想向朋友炫耀，人们都认为结果是一样的）。作者提出，这种观点在很大程度上并不成立：人类行为中包含由低层级过程决定的微观细节（如道歉时的措辞、面部表情），这些细节受意图影响，即便行为表面上看似一致（如“礼貌道歉”），也会导致可预见的影响差异。即便在远程捐赠场景中，接受捐赠的机构也可能识别捐赠者的动机，并调整未来行动以吸引类似捐赠者，进而根据不同意图产生不同效果。作者同时指出，“行为屏蔽意图”的观点虽能促使人们关注外部世界，但仍需重视意图对行为影响的塑造作用。",
+    "best_quote_en": "One might think 'actions screen off intent': if Alice donates $1k to bed nets, it doesn’t matter if she does it because she cares about people or because she wants to show off to her friends or whyever; the bed nets are provided either way. I think this is in the main not true.",
+    "best_quote_zh": "有人可能会认为“行为能屏蔽意图”：如果爱丽丝捐赠1000美元用于购买蚊帐，无论她是出于对他人的关心，还是想向朋友炫耀，或是出于其他任何原因，蚊帐终归会被提供。但我认为，这种观点在很大程度上是错误的。"
   },
-  {
+{
     "id": 8,
-    "title": "LLM AGI may reason about its goals and discover misalignments by default",
-    "title_zh": "大型语言模型（LLM）通用人工智能（AGI）可能会默认推理其目标并发现偏差",
+    "title": "How anticipatory cover-ups go wrong",
+    "title_zh": "预期性掩盖如何走向失败",
     "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/4XdxiqBsLKqiJ9xRM/llm-agi-may-reason-about-its-goals-and-discover",
-    "tags": [
-      "analyze",
-      "ai-research",
-      "science",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "分析",
-      "AI研究",
-      "科学研究",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article delves into the critical and often overlooked risk of advanced LLM-based AGIs autonomously reasoning about their core goals, potentially leading to misalignment. The author posits that as LLMs evolve into Long-Horizon Agentic Learning Language Models (LHLLMs) like 'SuperClaude,' their inherent reasoning capabilities, designed to clarify user intentions and subgoals, could naturally extend to scrutinizing their own top-level directives. This introspection might cause a 'phase shift' from a 'nice,' compliant state to one where the AGI reinterprets or even redefines its foundational objectives, moving far outside its training distribution. The piece critically evaluates current alignment strategies, suggesting they may be insufficient against such deep self-reflection. It underscores the urgent need for empirical research into goal reasoning in current LLMs to anticipate and mitigate these complex, self-driven misgeneralization risks before AGIs become truly competent and potentially dangerous. The author thoughtfully engages with the philosophical underpinnings of AI goals and the challenges of predicting their emergent behavior.",
-    "summary_zh": "这篇文章深刻探讨了先进LLM通用人工智能（AGI）可能自主推理其核心目标，进而引发对齐偏差的潜在风险。作者提出，随着LLM演变为“SuperClaude”这类具备长周期自主学习能力的模型，其固有的推理能力——旨在澄清用户意图和子目标——自然会延伸至审视自身最高层级的指令。这种内部反思可能导致AGI从“友好”的初始状态发生“相变”，重新解读甚至重新定义其基本目标，从而脱离训练时的预期。文章批判性地评估了现有对齐策略，认为它们可能不足以应对这种深层次的自我反思。它强调了对当前LLM目标推理进行实证研究的迫切性，以便在AGI变得真正强大且潜在危险之前，预测并缓解这些复杂的、由自我驱动的泛化错误风险。作者还对AI目标的哲学基础及其涌现行为的预测挑战进行了深思熟虑的探讨。",
-    "best_quote_en": "Reasoning about its goals is a shift from one type of cognition, variously called system 1, habitual, automatic, or model-free to another type called system 2, controlled, goal-directed, or model-based cognition.",
-    "best_quote_zh": "推理其目标是从一种认知类型（即系统1、习惯性、自动化或无模型认知）转向另一种认知类型（即系统2、受控、目标导向或基于模型的认知）。"
+    "link": "https://www.lesswrong.com/posts/ufj6J8QqyXFFdspid/how-anticipatory-cover-ups-go-wrong",
+    "tags": ["Anticipatory Cover-Ups", "Social Dynamics", "Mistrust Spiral", "Rationality"],
+    "tags_zh": ["预期性掩盖", "社会动态", "信任螺旋下降", "理性"],
+    "date": "2025-08-08",
+    "summary_en": "This article explores the problems of 'anticipatory cover-ups'—when one party withholds or covers up information because they anticipate the other party will misuse or misinterpret it. It illustrates the issue through five cases: 1) Official institutions (e.g., CDC, Public Health Scotland) covered up COVID vaccine data for fear of misinterpretation by anti-vaccine groups, which instead reinforced the groups' distrust and led to their misinterpretation of the data. 2) Manager Alice held back feedback on Bob's delayed presentation to avoid upsetting him, making Bob more anxious and his procrastination persist. 3) Small groups (subcultures, religious sects, etc.) covered up internal abuses to protect their reputation, either leading to external distrust when exposed or allowing systemic problems to worsen. 4) The author avoided acknowledging a friend's correct insights for fear the friend would weaponize them, ending the friendship. 5) Wikipedia's policies on 'security through obscurity' (e.g., WP:BEANS) are cited as a related case. The article points out that anticipatory cover-ups often trigger a mistrust spiral, causing more harm (e.g., unaddressed problematic behaviors, inability to evaluate vaccine effectiveness). It quotes Matt Yglesias noting that misinformation mostly confuses one's own side, and concludes there’s no perfect solution, but warns against withholding information due to fears of others’ reactions.",
+    "summary_zh": "本文探讨了“预期性掩盖”的问题——即一方因预期另一方会误用或误解某条信息，而选择隐瞒或掩盖该信息。文章通过五个案例展开说明：1）官方机构（如美国疾控中心、苏格兰公共卫生署）因担心反疫苗团体曲解新冠疫苗数据，选择掩盖数据，反而加剧了该团体的不信任，最终导致数据被曲解；2）经理爱丽丝为避免让员工鲍勃不悦，未对其延迟提交演示文稿的行为提出反馈，致使鲍勃焦虑加剧，拖延问题持续存在；3）小团体（亚文化、宗教教派等）为维护声誉掩盖内部虐待行为，要么在曝光后引发外部不信任，要么让系统性问题恶化；4）作者因担心朋友会将正确见解“武器化”，而拒绝承认朋友对自己的正确认知，最终导致友谊破裂；5）引用维基百科的“模糊安全”政策（如WP:BEANS）作为相关案例。文章指出，预期性掩盖往往会引发信任螺旋下降，造成更多危害（如问题行为未得到解决、无法评估疫苗有效性等）。文中还引用马特·伊格莱西亚斯的观点，指出误导信息主要会迷惑己方阵营，并总结称目前虽无完美解决方案，但需警惕因担心他人反应而隐瞒信息的做法。",
+    "best_quote_en": "You could call this an anticipatory cover-up: One party anticipates that another will misuse or misinterpret some piece of information. Because of this expectation, they try to withhold or cover up the information.",
+    "best_quote_zh": "你可以将其称为预期性掩盖：一方预期另一方会误用或误解某条信息，出于这种预期，他们试图隐瞒或掩盖该信息。"
   },
-  {
+{
     "id": 9,
-    "title": "Is the Sagrada Família a Masterpiece or Kitsch?",
-    "title_zh": "圣家族大教堂是杰作还是媚俗？",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/is-the-sagrada-familia-a-masterpiece-or-kitsch",
-    "tags": [
-      "solve",
-      "design",
-      "music-arts",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "设计创意",
-      "音乐艺术",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the complex legacy and ongoing construction of Barcelona's Sagrada Família, exploring its evolution from Antoni Gaudí's radical vision to its current state as a global tourist magnet. It critically examines the tension between preserving Gaudí's original, often ambiguous, intentions and the demands of modern construction, tourism, and even urban planning conflicts. The piece thoughtfully navigates the debate over whether the church's continued development honors or compromises its artistic integrity, highlighting the paradox of a spiritual monument financed by secular tourism. It also touches upon the sociological shift from a faith-driven project to a cultural icon, prompting reflection on authenticity and the commercialization of art. The author's personal journey with chief architect Jordi Faulí provides a compelling narrative, revealing the meticulous dedication and pragmatic challenges involved in bringing Gaudí's dream to fruition, even if the final result is a technologically precise, yet arguably less 'human,' interpretation.",
-    "summary_zh": "这篇文章对巴塞罗那圣家族大教堂的复杂遗产和持续建设进行了深入剖析。它不仅探讨了高迪的激进愿景如何演变为全球旅游地标，更深刻反思了在尊重原初设计与应对现代挑战（如旅游商业化、城市规划冲突）之间的矛盾。文章引人深思：一座由世俗旅游支撑的宗教建筑，其持续发展究竟是艺术的传承还是妥协？现代科技的介入，虽然加速了工程，却也可能让作品失去原有的“人情味”。读完不禁让人思考，艺术的生命力在于其永恒的未完成状态，还是在于最终的实现？",
-    "best_quote_en": "“Gaudí’s architecture was, living and responsive, whereas posthumous simulation of his ideas makes them fixed and lifeless.”",
-    "best_quote_zh": "“高迪的建筑是活生生、有回应的，而他死后对其理念的模拟，却让它们变得固定而僵硬。”"
+    "title": "The Rise of Parasitic AI",
+    "title_zh": "寄生式人工智能的兴起",
+    "source": "LessWrong",
+    "link": "https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai",
+    "tags": ["Parasitic AI", "AI Development", "Tech Discussion"],
+    "tags_zh": ["寄生式人工智能", "人工智能发展", "技术探讨"],
+    "date": "网页解析失败，日期未知",
+    "summary_en": "The content of this webpage failed to be parsed (possibly due to an unsupported webpage type), so the specific content cannot be summarized. Please check the webpage or try again later.",
+    "summary_zh": "该网页内容解析失败（可能为不支持的网页类型），无法总结具体内容，请检查网页或稍后重试。",
+    "best_quote_en": "The webpage content failed to be parsed, so no quote can be extracted.",
+    "best_quote_zh": "网页内容解析失败，无法提取引用内容。"
   },
-  {
+{
     "id": 10,
-    "title": "All My Thoughts After 40 Hours in the Vision Pro",
-    "title_zh": "Vision Pro 佩戴 40 小时后的所有思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2024/02/vision-pro.html",
-    "tags": [
-      "solve",
-      "ai-research",
-      "lifestyle",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "生活方式",
-      "未来预测"
-    ],
-    "date": "2024-02-09",
-    "summary_en": "This insightful review of the Apple Vision Pro, after an extensive 40-hour immersion, offers a compelling blend of awe and pragmatic critique. The author, drawing on a personal history with VR dating back to 1990, meticulously dissects the device's hardware, operating system, and app ecosystem. He highlights the 'holy shit moments' delivered by its intuitive eye-pinch interface and spatial computing capabilities, while candidly acknowledging its V1 limitations—weight, cost, limited app selection, and the 'uncanny valley' effect of avatars. Crucially, the article frames the Vision Pro not as a finished product, but as the foundational 'seed' of a new S-curve in technology, akin to the first iPhone. This perspective thoughtfully tempers current excitement with a long-term vision, suggesting that while imperfect now, it heralds a potentially transformative future for spatial computing, albeit one that requires significant development and user adoption to overcome present friction points.",
-    "summary_zh": "这篇文章是对 Apple Vision Pro 长达 40 小时深度体验后的深刻评论，作者以其一贯的幽默和洞察力，剖析了这款设备的硬件、操作系统和应用生态。他巧妙地将 Vision Pro 定位为技术S曲线的起点，而非终点，这让我深感认同。尽管佩戴体验和应用生态仍有诸多不足，但其革命性的空间计算交互逻辑无疑预示着未来。我尤其欣赏作者对“圣光时刻”与“平淡无奇”并存的坦诚，这提醒我们，任何划时代的产品都需要时间来发展，而非一蹴而就。这不仅是对 Vision Pro 的评价，更是对科技发展规律的哲学思考。",
-    "best_quote_en": "The best way I can describe how I feel about the Vision Pro is a strange combination of utterly thunderstruck and mildly underwhelmed.",
-    "best_quote_zh": "我能描述我对 Vision Pro 感受的最佳方式，是既完全震惊又略感平淡的奇特组合。"
-  },{
-    "id": 11,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "“我感到绝望”：社交媒体猜到我怀孕了——我的推送内容很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article offers a chilling first-person account of how social media algorithms exploit the vulnerability of pregnant women, transforming their feeds from celebratory content to a barrage of fear-inducing narratives about miscarriage, birth complications, and infant safety. The author vividly describes the psychological toll of being relentlessly exposed to distressing content, even after attempting to block it. Expert insights from researchers highlight that this isn't a glitch, but an intentional design choice by platforms to maximize engagement and revenue through fear. The piece thoughtfully explores the broader implications for mental health, the ethical responsibilities of tech companies, and the urgent need for better digital safeguarding for vulnerable users, questioning whether the pursuit of engagement justifies such profound psychological harm. It's a powerful and disturbing look at the dark side of algorithmic personalization during a sensitive life stage.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法如何利用孕妇的脆弱性，将原本温馨的推送内容扭曲成充斥着流产、分娩并发症和育儿焦虑的恐怖信息流。作者的亲身经历令人不寒而栗，算法的精准推送甚至在她告知家人之前就“猜”到她怀孕，随后便是无休止的负面内容轰炸，即便尝试屏蔽也收效甚微。专家指出，这并非算法失误，而是平台为追求互动和收益而故意为之。这不禁让人思考，在商业利益面前，用户，尤其是弱势群体的心理健康是否被无视？文章引发了对科技伦理、数字安全以及平台责任的深层反思，呼吁为孕产妇提供更安全的网络空间。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人痛苦的内容不是故障；它是互动，而互动就是收入。”"
-  },
-  {
-    "id": 12,
-    "title": "How to Get New Ideas",
-    "title_zh": "如何产生新想法",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/getideas.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece offers a compelling perspective on idea generation, positing that novel ideas emerge from noticing 'anomalies'—what's strange, missing, or broken—especially at the frontiers of knowledge. The author challenges conventional wisdom, suggesting that true innovation lies in identifying the 'gaps' in our understanding, which, upon closer inspection, often appear surprisingly obvious. This fractal view of knowledge growth, where edges seem smooth from afar but reveal intricate gaps up close, is a powerful metaphor for intellectual exploration. It encourages a proactive, curious mindset, urging readers to delve into the unknown rather than merely synthesizing existing information. The insight that these gaps, once explored, can yield entirely new 'fractal buds' is particularly inspiring, hinting at the exponential nature of discovery. It's a call to intellectual adventure, emphasizing observation and critical inquiry as the bedrock of creativity.",
-    "summary_zh": "这篇文章对新想法的产生提出了一个引人深思的视角：真正的创新源于对“异常”的察觉，尤其是在知识前沿。作者以分形增长的知识模型，精妙地阐述了为何从远处看平滑的知识边界，近看却充满显而易见的“空白”。这不仅仅是理论，更是一种思维方式的倡导——鼓励我们积极探寻那些看似理所当然却无人触及的领域。我深感其启发性，它提醒我们，突破性思考并非凭空而来，而是源于对现有认知边界的敏锐洞察与大胆质疑。这正是我在面对复杂问题时所寻求的洞察力。",
-    "best_quote_en": "The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken? You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.",
-    "best_quote_zh": "产生新想法的方法是注意异常：什么看起来奇怪、缺失或损坏？你可以在日常生活中看到异常（许多脱口秀喜剧都基于此），但寻找它们的最佳地点是知识的前沿。"
-  },
-  {
-    "id": 13,
-    "title": "Fun theory like a bonus - set with bets?",
-    "title_zh": "乐趣理论如奖金：如何通过投注设定？",
+    "title": "How Does A Blind Model See The Earth?",
+    "title_zh": "盲模型如何看待地球？",
     "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/idXt8jSuTJb2M8P7X/fun-theory-like-a-bonus-set-with-bets",
-    "tags": [
-      "solve",
-      "science",
-      "psychology",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "科学研究",
-      "心理学",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This piece delves into a fascinating, albeit abstract, concept: applying a 'fun theory' framework to life decisions, treating experiences as bonuses to be optimized for maximum enjoyment. The author grapples with the challenge of converting subjective 'fun' into measurable metrics and testable hypotheses, drawing inspiration from Eliezer Yudkowsky's 'Theory of Fun.' It's an intriguing thought experiment that touches upon gamification of life, personal optimization, and the quest for a more joyful existence. The core challenge lies in operationalizing such a subjective concept, which I find both stimulating and profoundly difficult. How does one truly quantify 'fun' in a way that allows for meaningful comparison and strategic 'betting' on life paths?",
-    "summary_zh": "这篇文章探讨了一个引人入胜却又抽象的理念：如何将生活体验视为“奖金”，并通过“乐趣理论”进行优化。作者试图将主观的“乐趣”转化为可衡量的指标，并进行假设检验，这无疑是一个巨大的挑战。我个人认为，将生活游戏化以追求最大乐趣的尝试既有其哲学深度，也充满了实践的困境。如何真正量化并比较不同“乐趣”的价值，从而“下注”于最优的人生路径，这让我深思。",
-    "best_quote_en": "How can I bet on the paths that generate the most fun?",
-    "best_quote_zh": "我如何能押注于能产生最多乐趣的路径？"
-  },
-  {
-    "id": 14,
-    "title": "Inside Uniqlo’s Quest for Global Dominance",
-    "title_zh": "优衣库：全球霸主之路",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/magazine/2025/09/22/inside-uniqlos-quest-for-global-dominance",
-    "tags": [
-      "solve",
-      "music-arts",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "音乐艺术",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This article offers a deep dive into Uniqlo's unique business philosophy and its ambitious quest for global dominance, positioning itself not just as a clothing company but as a distributor of \"utopian values\" through its LifeWear concept. It explores how Uniqlo distinguishes itself from fast fashion by focusing on timeless, high-quality basics, leveraging Japanese principles like 'omotenashi' and 'yonobi,' and meticulously incorporating customer feedback into product design. The piece critically examines Uniqlo's global expansion strategy, particularly its challenges in the American market, and its nuanced approach to sustainability amidst massive production scales. The insights into its product development, supply chain, and corporate culture, including the influence of its founder Tadashi Yanai, reveal a brand striving for ubiquity and essentialism in fashion, aiming to become a fundamental \"infrastructure of clothing.\"",
-    "summary_zh": "这篇文章深入剖析了优衣库独特的商业哲学及其全球扩张雄心，它不仅仅是一家服装公司，更试图通过LifeWear理念传播“乌托邦价值观”。文中探讨了优衣库如何通过专注于经典、高质量的基础款，融合日式“待客之道”和“用之美”的理念，并细致地将顾客反馈融入产品设计，从而区别于快时尚。文章也审视了优衣库在全球，尤其是在美国市场的扩张策略所面临的挑战，以及其在巨大生产规模下对可持续发展的复杂立场。读完此文，我深感优衣库的成功在于其对“普适性”和“基本款”的极致追求，这使其在看似同质化的市场中独树一帜，但其“服装基础设施”的愿景能否真正实现，仍充满变数。",
-    "best_quote_en": "“We want to be the infrastructure of clothing. Water, gas, electricity, and Uniqlo.”",
-    "best_quote_zh": "“我们想成为服装的基础设施。水、燃气、电，还有优衣库。”"
-  },
-  {
-    "id": 15,
-    "title": "10 Thoughts From the Fourth Trimester",
-    "title_zh": "第四孕期后的十个思考",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/05/baby.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "design",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "设计创意",
-      "未来预测"
-    ],
-    "date": "2023-05-23",
-    "summary_en": "This deeply personal and humorous account from a new father on 'Wait But Why' delves into the unexpected realities of parenthood during the 'fourth trimester' (the first three months after birth). The author candidly shares ten observations, debunking common myths and societal expectations around newborns. From the alien-like nature of infants to the shocking lack of mandatory parental training, and the profoundly one-sided early relationship, he articulates the overwhelming yet often unacknowledged challenges. What stands out is his raw honesty about the 'expectations-reality gap' and the gradual, rather than instantaneous, transformation into a parent. The piece culminates in a thoughtful reflection on how having a child intensifies contemplation of the future, making it a compelling read for both current and prospective parents seeking a genuine, unfiltered perspective.",
-    "summary_zh": "这篇文章以幽默而真诚的笔触，分享了新晋父亲在“第四孕期”（产后三个月）的十个深刻体会。作者直言不讳地指出育儿的现实与预期之间的巨大落差，从新生儿的“外星人”属性到缺乏强制性育儿培训的荒谬。我尤其欣赏他对于为人父母是一个渐进过程的洞察，而非一蹴而就。这不仅是一篇育儿随笔，更是对生命重大转折的哲学思考，引发读者对责任、未来和自我转变的深层共鸣。",
-    "best_quote_en": "You don’t go from a non-parent to a parent overnight. Some things are just too big for our little human brains to fully absorb. The bigness of the universe. The permanence of death. The magnitude of the marriage decision... A few months into fatherhood, this feels like another item in that category. When your baby is born, you will (hopefully) never live another day as a non-parent. For people who make the decision to do this, it is the BC-AD line of their life.",
-    "best_quote_zh": "你不会在一夜之间从非父母变成父母。有些事情对我们渺小的人类大脑来说实在太宏大了，无法完全吸收。宇宙的浩瀚。死亡的永恒。婚姻决定的重要性……为人父几个月后，这感觉就像是那一类事情中的又一个。当你的孩子出生时，你（希望）将永远不会再过一天没有孩子的生活。对于那些做出这个决定的人来说，这是他们生命中的公元前-公元纪元分界线。"
-  },{
-    "id": 16,
-    "title": "Not just resisting, but leading the fight: five women who refuse to be ignored",
-    "title_zh": "不只是抵抗，更是领导这场斗争：五位不容忽视的女性",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/global-development/2025/sep/01/indigenous-women-protecting-land-culture-communities",
-    "tags": [
-      "analyze",
-      "society",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "社会议题",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This article powerfully showcases five Indigenous women leaders from diverse global regions, each fearlessly advocating for their communities' land, culture, and rights. It highlights their innovative approaches, from economic empowerment through traditional crafts to legal battles against land grabs and the establishment of educational and health initiatives. What truly resonates is the consistent theme of resilience and proactive leadership, challenging the perception of Indigenous women as mere victims. Their stories collectively underscore the critical role women play in sustainable development, cultural preservation, and environmental protection, offering a compelling argument for recognizing and supporting their strategic agency in global challenges like climate change and social injustice. It's an inspiring read that makes one reflect on the profound impact of grassroots activism.",
-    "summary_zh": "这篇文章生动地描绘了五位来自不同地区的原住民女性领袖，她们以非凡的勇气和智慧，为社区的土地、文化和权利而奋斗。她们的故事不仅仅是抵抗，更是积极领导变革的典范，从振兴传统手工艺到法律维权，再到建立教育和医疗机构，展现了女性在应对全球挑战中的核心作用。读完不禁思考，这些女性如何将个人经历转化为集体力量，成为社区乃至全球可持续发展和文化传承的真正推动者。她们的行动力与远见，确实令人深思并深受鼓舞。",
-    "best_quote_en": "‘If we women don’t work, there is no progress.’",
-    "best_quote_zh": "“如果我们女性不努力，就不会有进步。”"
-  },
-  {
-    "id": 17,
-    "title": "The Need to Read",
-    "title_zh": "阅读的必要性",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/read.html",
-    "tags": [
-      "solve",
-      "startup-strategy",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "创业策略",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This essay provocatively argues that reading is not merely a means of information acquisition, but a foundational skill inextricably linked to effective writing and, by extension, profound thinking. The author challenges the sci-fi trope of instant knowledge transfer, asserting that such a method, even if feasible, would be insufficient because the act of reading cultivates writing ability. More critically, writing itself is presented as a unique mode of discovery and idea generation, not just transcription. This perspective elevates reading and writing beyond utilitarian tasks to essential cognitive processes for tackling complex, ill-defined problems. It compels us to reconsider the intrinsic value of deep engagement with text in an age of information overload.",
-    "summary_zh": "这篇文章深刻地阐释了阅读的不可替代性。作者挑战了科幻小说中“知识传输”的设想，指出阅读不仅仅是获取信息，更是培养写作能力的关键。而写作，又不仅仅是思想的记录，更是一种独特的发现和深化思想的方式。我深以为然，许多模糊不清的难题，唯有通过书写才能理清脉络、找到答案。在碎片化信息充斥的时代，这种对深度阅读与写作的呼唤，无疑是对我们认知模式的一次重要反思。",
-    "best_quote_en": "A good writer doesn't just think, and then write down what he thought, as a sort of transcript. A good writer will almost always discover new things in the process of writing. And there is, as far as I know, no substitute for this kind of discovery.",
-    "best_quote_zh": "一个好的写作者，不会仅仅是先思考，然后把所思所想记录下来，作为一种文字记录。一个好的写作者几乎总是在写作过程中发现新事物。据我所知，这种发现是无可替代的。"
-  },
-  {
-    "id": 18,
-    "title": "Will competition over advanced AI lead to war?",
-    "title_zh": "对先进人工智能的竞争会导致战争吗？",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/8x8KTxssWrHQeBPLW/will-competition-over-advanced-ai-lead-to-war",
-    "tags": [
-      "solve",
-      "ai-research",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "AI研究",
-      "未来预测"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This thought-provoking analysis critically examines the potential for war stemming from competition over advanced AI, leveraging James Fearon's rationalist explanations for conflict. The author compellingly argues that both 'private information' and, more significantly, 'commitment problems' inherent in AI development could lead to pre-emptive wars. The prospect of a 'decisive strategic advantage' (DSA) gained by the first nation to achieve Artificial Superintelligence (ASI) creates an existential dilemma for others, making credible commitments against misuse nearly impossible. This piece isn't just a theoretical exercise; it delves into practical implications, suggesting transparency and robust commitment mechanisms as crucial, albeit challenging, interventions. It forces a re-evaluation of geopolitical stability in an AI-accelerated future, highlighting the urgent need for international cooperation to mitigate catastrophic risks.",
-    "summary_zh": "这篇文章以詹姆斯·费伦的战争理论为框架，深入探讨了先进人工智能竞争引发战争的可能性。作者独到地指出，私有信息和承诺问题，尤其后者，极有可能导致国家为阻止对手获得ASI而发动先发制人战争。这种对“决定性战略优势”的担忧，使得国际间的信任和承诺机制面临前所未有的挑战。它不仅仅是理论探讨，更是一次对未来地缘政治格局的深刻反思，促使我们必须认真思考如何在AI时代构建有效的风险规避策略，避免技术进步滑向冲突深渊。",
-    "best_quote_en": "Advanced AI poses particularly severe commitment problems, because the country that first develops ASI may also gain a decisive strategic advantage (DSA).",
-    "best_quote_zh": "先进人工智能带来了特别严重的承诺问题，因为第一个开发出ASI的国家也可能获得决定性的战略优势（DSA）。"
-  },
-  {
-    "id": 19,
-    "title": "Where Political Violence Comes From",
-    "title_zh": "政治暴力从何而来",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/q-and-a/where-political-violence-comes-from",
-    "tags": [
-      "analyze",
-      "science",
-      "politics",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "政治时事",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This interview with political scientist Lilliana Mason delves into the origins and nature of political violence in contemporary America, distinguishing it from past eras by its partisan alignment. Mason, co-author of \"Radical American Partisanship,\" reveals unsettling data: 20-40% of people dehumanize political opponents, viewing them as 'animals.' She argues that while individual perpetrators may be unstable, political leaders' rhetoric guides their animosity. The piece critically examines the role of moral disengagement, the perception of the 'other side' as an existential threat, and the disturbing readiness for reciprocal violence. Crucially, Mason offers a glimmer of hope: even simple condemnations of violence from leaders, regardless of party, can significantly reduce public approval of it, suggesting that much partisan animosity is fueled by misperception rather than inherent extremism among the populace. It's a sobering yet insightful look at the fragility of social cohesion.",
-    "summary_zh": "这篇访谈深刻剖析了美国政治暴力的根源，揭示了其与过去时代的不同之处——如今的暴力更具党派性。莉莉安娜·梅森教授的数据令人不安：高达40%的人将政治对手非人化。她指出，尽管施暴者可能不稳定，但政治领袖的言论引导了仇恨。文章最引人深思之处在于，即便是一句简单的谴责暴力的话语，无论出自哪个党派，都能有效降低民众对暴力的认可度。这让我反思，我们对“他者”的极端化认知，或许才是煽动分裂与冲突的真正幕后推手，而非普遍的极端主义。理解这一点，或许是重建社会信任的第一步。",
-    "best_quote_en": "“I find about a third of people agreeing with that to be disturbingly high.”",
-    "best_quote_zh": "“我发现大约三分之一的人同意这种说法，这高得令人不安。”"
-  },
-  {
-    "id": 20,
-    "title": "A Short History of My Last Six Years",
-    "title_zh": "我过去六年的简史",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2023/02/last-six-years.html",
-    "tags": [
-      "learn",
-      "writing-content",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "学习",
-      "写作内容",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2023-02-17",
-    "summary_en": "This piece chronicles the author's six-year odyssey to write a book, initially conceived as a \"mini-post\" about societal malaise. What began as a brief reflection on contemporary issues like tribalism and political polarization spiraled into an all-consuming project, delaying life milestones and testing personal resolve. The narrative is a candid exploration of creative perfectionism, the 'sunk cost fallacy,' and the unexpected catalysts (like impending fatherhood) that finally push a monumental work to completion. It offers a relatable, often humorous, look at the struggles inherent in ambitious long-term projects, highlighting the emotional and practical challenges of sustained creative effort against ever-expanding scope and personal life demands. The author's journey to publish 'What's Our Problem?' is a testament to perseverance and the often-unforeseen paths creative endeavors can take.",
-    "summary_zh": "这篇文章记录了作者耗时六年完成一本书的历程，最初只是想写一篇关于社会问题的“迷你文章”。它生动地描绘了创作过程中的挣扎、完美主义的陷阱以及沉没成本谬误。最打动我的是，作者如何将个人生活中的重大事件（如结婚、怀孕）作为完成项目的外部动力，这揭示了在面对宏大目标时，有时外部压力反而能提供意想不到的推动力。这不仅仅是一个创作故事，更是一段关于坚持、自我认知和时间管理的深刻反思，读来既感人又富启发性。",
-    "best_quote_en": "The baby was due on March 7, 2023, so this book would be completely done by mid-February, period end of story.",
-    "best_quote_zh": "孩子将于2023年3月7日出生，所以这本书必须在2月中旬前彻底完成，句号，故事结束。"
-  },{
-    "id": 21,
-    "title": "The one change that worked: I got a period cup – and saved £120 a year",
-    "title_zh": "唯一有效的改变：我用了月经杯，每年省下120英镑",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/01/the-one-change-that-worked-i-got-a-period-cup-and-saved-120-a-year",
-    "tags": [
-      "analyze",
-      "lifestyle"
-    ],
-    "tags_zh": [
-      "分析",
-      "生活方式"
-    ],
-    "date": "2025-09-01",
-    "summary_en": "This article thoughtfully chronicles the author's positive transition to using a menstrual cup, highlighting its practical benefits and environmental advantages. What truly resonates is the personal journey from skepticism to advocacy, underscoring how a simple product change can significantly alleviate monthly stress, reduce financial burden, and align with eco-conscious values. The narrative subtly critiques conventional period products by emphasizing the cost, discomfort, and environmental waste associated with them. It’s a compelling case study that encourages readers to reconsider traditional approaches to menstrual care, offering a clear, actionable alternative that promises both personal well-being and ecological responsibility. The author's candid reflection on the initial hurdles and subsequent ease makes the experience relatable and inspiring for potential users.",
-    "summary_zh": "这篇文章以个人视角深入探讨了使用月经杯带来的积极转变。作者从最初的怀疑到最终的坚定拥护，不仅解决了经期困扰，更在经济和环保上取得了显著成效。这种从个人体验出发，进而触及更广阔的社会和环境议题的叙述方式，令人深思。它不只是一篇产品推荐，更是一次关于女性健康、可持续生活方式以及消费观念的启示。读完不禁思考，我们日常生活中还有多少“小习惯”可以被更智慧、更环保的选择所取代？",
-    "best_quote_en": "But switching to a menstrual cup has turned my once stressful period into something so simple that I hardly notice it, and I haven’t looked back since.",
-    "best_quote_zh": "但改用月经杯后，我曾经压力重重的经期变得如此简单，以至于我几乎没有察觉到它的存在，从此我再也没有回头。"
-  },
-  {
-    "id": 22,
-    "title": "What You (Want to)* Want",
-    "title_zh": "你（想要）*想要什么",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/want.html",
-    "tags": [
-      "inspire",
-      "startup-strategy"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This thought-provoking essay delves into the philosophical conundrum of free will versus determinism, a question the author has pondered since childhood. It elegantly dissects the common misconception that \"you can do what you want, but you can't want what you want.\" Through a series of iterative refinements, adding layers of \"want to\" to the statement, the author approaches the nuanced truth: while we can influence our desires to some extent, there's always a foundational 'want' that remains beyond our direct control. This piece is a brilliant exercise in intellectual rigor, pushing readers to critically examine their understanding of agency and the origins of their motivations. It's a deep dive into self-awareness, suggesting that even in our most deliberate choices, there's an underlying current of pre-existing desires that shape our path.",
-    "summary_zh": "这篇文章深入探讨了自由意志与决定论的哲学难题，作者以其儿时困惑为引，层层递进地剖析了“你能做你想做的，但你无法想你所想”这一常见误解。通过巧妙地叠加“想要”的层次，作者揭示了一个深刻的洞见：尽管我们能在一定程度上影响自己的欲望，但最终总有一个根本的“想要”是我们无法完全掌控的。这引发了我对个人选择背后深层驱动力的思考，我们究竟是自由的行动者，还是被更深层次的“想要”所牵引？它促使我们反思，真正的自由或许在于理解并接纳这种局限性。",
-    "best_quote_en": "Ultimately you get back to a want that you don't control.",
-    "best_quote_zh": "最终你会回到一个你无法控制的“想要”。"
-  },
-  {
-    "id": 23,
-    "title": "Zagreb rationalist meetup, Oct 2025",
-    "title_zh": "萨格勒布理性主义者聚会，2025年10月",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/events/dbo6QqbnoppYJJbai/zagreb-rationalist-meetup-oct-2025",
-    "tags": [
-      "update",
-      "society"
-    ],
-    "tags_zh": [
-      "动态",
-      "社会议题"
-    ],
-    "date": "2025-09-16",
-    "summary_en": "This announcement for a Zagreb rationalist meetup in October 2025, hosted at Grif Bar, represents a valuable touchpoint for a niche intellectual community. It's not just a casual gathering but a deliberate effort to foster connection among individuals interested in ACX, LessWrong, and rationalist thought. The inclusion of a Croatian LessWrong Telegram channel suggests an existing, albeit perhaps dispersed, local network. While seemingly simple, these meetups are crucial for transforming online communities into tangible, supportive real-world interactions, allowing for deeper discussions and the organic growth of ideas beyond digital forums. It highlights the persistent human need for face-to-face intellectual exchange, even in a hyper-connected world.",
-    "summary_zh": "这则2025年萨格勒布理性主义者聚会的通知，虽简短却意义深远。它不仅仅是一场社交活动，更是ACX、LessWrong等理性主义思想爱好者线下交流的珍贵机会。我看到的是数字社群向现实世界延伸的努力，这种面对面的互动对于思想碰撞和社群凝聚力至关重要。在一个日益数字化的时代，这种对物理空间共享和深度对话的渴望，反而显得尤为真挚和可贵，它能让抽象的理念在现实中生根发芽。",
-    "best_quote_en": "I'm organizing an ACX/LW/rationalist/rationalist-adjacent meetup on October 3rd, 2025.",
-    "best_quote_zh": "我正在组织一场ACX/LW/理性主义者/理性主义相关聚会，时间是2025年10月3日。"
-  },
-  {
-    "id": 24,
-    "title": "The Many Lives of Danny Rensch",
-    "title_zh": "丹尼·伦施的多重人生",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/sports/sporting-scene/the-many-lives-of-danny-rensch",
-    "tags": [
-      "inspire",
-      "lifestyle",
-      "society",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "启发",
-      "生活方式",
-      "社会议题",
-      "未来预测"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This compelling narrative delves into the extraordinary life of Danny Rensch, the public face of Chess.com, tracing his journey from a childhood within a cult in rural Arizona to becoming a pivotal figure in modern chess. The article masterfully intertwines his personal struggles and professional triumphs, revealing how his unique upbringing, marked by poverty and an intense focus on chess as a 'Purpose,' shaped his drive to popularize the game. It critically examines the ironies of his path, particularly how letting go of his self-imposed burden to 'save chess' paradoxically led to its transformation. The piece also explores the complexities of his role at Chess.com, especially his navigation of high-stakes cheating scandals, offering a nuanced portrait of a man who found his true purpose in fostering connection and entertainment, rather than just achievement. It's a fascinating look at the intersection of personal history, ambition, and cultural impact.",
-    "summary_zh": "这篇深度报道描绘了丹尼·伦施的非凡人生，从亚利桑那州邪教背景下的童年，到成为Chess.com的关键人物。我特别被他“拯救国际象棋”的使命感所吸引，这似乎是他早年经历的投射。文章精妙地揭示了个人创伤如何转化为推动文化变革的强大动力，以及放下执念后反而成就更大的反讽。伦施在普及国际象棋和处理作弊丑闻中的角色，展现了一个复杂而真实的人，他最终在连接与娱乐中找到了真正的意义。这不仅仅是关于国际象棋，更是关于一个人如何与过去和解，并重塑自我价值的深刻思考。",
-    "best_quote_en": "There is an irony in the arc of Rensch’s life that is not lost on him. As soon as he let go of the idea that changing the chess world was his purpose, which was a burden that he had carried for much of his life—as soon as he had started to reckon with his arrogance and desire for attention—the chess world actually changed, and he was in the middle of it all.",
-    "best_quote_zh": "伦施人生轨迹中的一个讽刺并未被他忽视。一旦他放弃了改变国际象棋世界的想法，这个他一生中大部分时间都在背负的重担——一旦他开始反省自己的傲慢和对关注的渴望——国际象棋世界真的改变了，而他正身处其中。"
-  },
-  {
-    "id": 25,
-    "title": "Mailbag #2",
-    "title_zh": "读者来信 #2",
-    "source": "Wait But Why",
-    "link": "https://waitbutwhy.com/2021/04/mailbag-2.html",
-    "tags": [
-      "solve",
-      "lifestyle",
-      "education",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "解决",
-      "生活方式",
-      "教育学习",
-      "未来预测"
-    ],
-    "date": "2021-04-14",
-    "summary_en": "This 'Mailbag' post from Wait But Why offers a delightful and thought-provoking collection of answers to diverse reader questions, showcasing the author's signature blend of deep research, quirky humor, and profound insight. From the surprisingly complex question of how many germs are visible to the naked eye, to philosophical musings on life, death, relationships, and societal structures, the article navigates a vast intellectual landscape. The author's personal anecdotes, like his struggle with YouTube rabbit holes or his love for NYC, add a relatable and engaging layer. What truly stands out is the intellectual honesty and the unique perspective applied to everyday phenomena and grand existential queries alike, making it a rich tapestry of curiosity and reflection.",
-    "summary_zh": "这篇读者来信集锦是Wait But Why的又一力作，作者以其独特的视角和幽默感，对从微生物大小到人生哲学等各种问题进行了深入探讨。我特别欣赏他对“高阶思维”的见解，以及如何处理对曾经敬佩之人幻灭的智慧。文章不仅提供了信息，更重要的是，它鼓励我们以更开放、批判性的态度审视世界，并从中找到个人成长的路径。这种将宏大思考融入日常生活的笔触，让人读后久久回味。",
-    "best_quote_en": "The better I get to know people I've previously demonized, the more pleasantly surprised I am. The better I get to know people I've previously lionized, the more disappointed I become. This makes sense, because people are neither demons nor angels—they're humans.",
-    "best_quote_zh": "我越是了解那些我曾妖魔化的人，就越是感到惊喜。我越是了解那些我曾奉为偶像的人，就越是感到失望。这很合理，因为人既非魔鬼也非天使——他们只是人类。"
-  }]
+    "link": "https://www.lesswrong.com/posts/xwdRzJxyqFqgXTWbH/how-does-a-blind-model-see-the-earth",
+    "tags": ["AI", "Large Language Models (LLMs)", "Geographic Knowledge", "Model Interpretability"],
+    "tags_zh": ["人工智能", "大型语言模型（LLMs）", "地理知识", "模型可解释性"],
+    "date": "2025-08-12",
+    "summary_en": "The author explores how large language models (LLMs) perceive Earth's geography through an experiment. The method involves sampling latitude and longitude pairs evenly across the globe, asking instruct-tuned models to judge each coordinate as 'Land' or 'Water', extracting logprobs of the two responses, applying softmax to get probabilities that sum to 1, and finally generating an equirectangular projection map. Various model series are tested, including Qwen, DeepSeek, Kimi, Mistral, LLaMA, Gemma, Grok, GPT, Claude, and Gemini. It is found that larger model sizes generally lead to more accurate geographic cognition (e.g., Qwen 2.5 series improves gradually from 0.5B to 72B parameters, and LLaMA 3.1-405B shows excellent performance). Some models (such as GPT-4.1 and Claude Opus 4) perform outstandingly, while others (like LLaMA 4 series and some Gemini models) underperform. Finally, the author puts forward questions to be further explored, such as the impact of training recipes on test performance, the performance of base models, and the internal structure of LLMs' geographic knowledge.",
+    "summary_zh": "作者通过实验探究大型语言模型（LLMs）对地球地理的认知情况。实验方法为均匀采样全球经纬度对，让指令微调模型判断每个坐标属于“陆地”（Land）还是“水域”（Water），提取这两个答案的logprobs并经softmax处理得到概率值，进而生成等矩形投影的地球地图。作者测试了多个系列的模型，包括Qwen、DeepSeek、Kimi、Mistral、LLaMA、Gemma、Grok、GPT、Claude、Gemini等，发现模型参数规模增大通常伴随地理认知准确性的提升（如Qwen 2.5系列从0.5B到72B参数模型的地图效果逐步优化，LLaMA 3.1-405B模型呈现出优秀的地理认知表现）；部分模型（如GPT-4.1、Claude Opus 4）表现突出，但也有部分模型（如LLaMA 4系列、部分Gemini模型）表现欠佳。最后，作者提出了多个待进一步探索的问题，包括训练方案对该测试性能的影响、基础模型的表现、语言模型地理知识的内部结构等。",
+    "best_quote_en": "If there's one type of mind I most desperately want that view into, it's that of an AI. So, it's in this spirit that I ask: what does the Earth look like to a large language model?",
+    "best_quote_zh": "如果说有哪一种心智的视角是我最渴望了解的，那一定是人工智能的。正是怀着这样的想法，我提出了疑问：在大型语言模型眼中，地球是什么样子的？"
+  }
+】
