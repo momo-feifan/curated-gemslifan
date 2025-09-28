@@ -151,6 +151,7 @@ function applyAndRender() {
     }
     
     window.__countsForCurrentQuery = counts;
+    
     // 筛选数据
     view = raw.filter(item => {
         // 根据语言选择对应字段
