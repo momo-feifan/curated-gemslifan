@@ -189,11 +189,7 @@ function renderSources(list) {
     const counts = window.__countsForCurrentQuery || { all: raw.length };
     sourcesEl.innerHTML = list.map(source => {
         // 🌟 优化数据源显示文字
-        const displayText = source === 'all'
-            ? (lang === 'zh' ? '📚 全部精选' : '📚 All Sources')
-            : `✨ ${source}`;
-
-        const isActive = source === activeSource ? 'active' : '';
+       
         const n = counts[source] || 0;
         const displayText = source === 'all'
           ? (lang === 'zh'
