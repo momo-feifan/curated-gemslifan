@@ -426,6 +426,13 @@ function renderTags(list) {
   // 提示：需要统计每个标签在当前列表中的使用次数
   // 参考格式：const tagCounts = {};
   const tagCounts = {};
+  list.forEach(item => {
+    const itemTags = item[tagsField] || item.tags || [];
+    itemTags.forEach(tag => {
+      tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+    });
+  });
+  
 list.forEach(item => {
   const itemTags = item[tagsField] || item.tags || [];
   itemTags.forEach(tag => {
