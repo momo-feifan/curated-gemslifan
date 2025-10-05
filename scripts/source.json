@@ -1,5 +1,25 @@
 [
   {
+    "name": "少数派",
+    "url": "sspai.com/feed"
+  },
+  {
+    "name": "36氪",
+    "url": "36kr.com/feed"
+  },
+  {
+    "name": "凤凰网",
+    "url": "http://news.ifeng.com/rss/"
+  },
+  {
+    "name": "国家统计局",
+    "url": "http://www.stats.gov.cn/english/PressRelease/rss.xml"
+  },
+  {
+    "name": "极客公园",
+    "url": "http://feeds.geekpark.net/"
+  },
+  {
     "name": "Women | The Guardian",
     "url": "http://theguardian.com/lifeandstyle/women/rss"
   },
@@ -34,25 +54,6 @@
   {
     "name": "Tim Ferriss",
     "url": "https://tim.blog/feed/"
-  },
-  {
-    "name": "少数派",
-    "url": "sspai.com/feed"
-  },
-  {
-    "name": "36氪",
-    "url": "36kr.com/feed"
-  },
-  {
-    "name": "凤凰网",
-    "url": "http://news.ifeng.com/rss/"
-  },
-  {
-    "name": "国家统计局",
-    "url": "http://www.stats.gov.cn/english/PressRelease/rss.xml"
-  },
-  {
-    "name": "极客公园",
-    "url": "http://feeds.geekpark.net/"
   }
+  
 ]
