@@ -74,7 +74,7 @@ async function loadData() {
       // 本地开发环境
       dataUrl = './data.json';
     }
-    
+  
     const response = await fetch(dataUrl);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
