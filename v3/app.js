@@ -74,7 +74,7 @@ async function loadData() {
     if (!Array.isArray(data)) {
       throw new Error('Invalid data format: expected array');
     }
-    
+
     return data;
   } catch (error) {
     console.error('Failed to load data:', error);
